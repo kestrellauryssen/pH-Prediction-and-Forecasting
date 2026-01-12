@@ -7,7 +7,6 @@ This repository contains the code and data for the paper titled "Predicting and 
 - Python
 
 ## Algorithms and Models
-- ARIMA
 - Lasso Regression
 - Ridge Regression
 - XGBoost
