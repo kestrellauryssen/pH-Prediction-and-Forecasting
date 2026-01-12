@@ -1,7 +1,7 @@
 # pH-Prediction-and-Forecasting
 
 ## Project Overview
-This repository contains the code and data for the paper titled "Predicting and Forecasting Coral Reef pH Values, A Comparison of Linear and Tree-Based Models" The study evaluates and compares tree-based and linear models in their ability to predict and forecast pH across various coral reefs. 
+This repository contains the code and data for the paper titled "Predicting and Forecasting Coral Reef pH Values, A Comparison of Linear, Tree-Based, Hybrid Models" The study evaluates and compares tree-based and linear models in their ability to predict and forecast pH across various coral reefs. 
 
 ## Language
 - Python
